@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+blog:
+  list:
+    - name: redis设计与实现
+      author: 张三
+    - name: java核心技术
+      author: 李四
